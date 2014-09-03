@@ -41,3 +41,15 @@ a.four{
 cursor: pointer;
 
 }
+h2{
+     float: right;
+}
+
+.navigation a {
+            display: block;
+            margin-left: 0.5em;
+            padding: 5px;
+            border: 1px solid #000;
+            color: #000;
+            text-decoration: none;
+        }
