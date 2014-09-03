@@ -17,3 +17,21 @@ p{
     font-style:italic;color: red;
     font-size:15px;
 }
+
+a{
+  color:maroon;
+  text-decoration:none;
+}
+a:visited{
+  color:red;
+}
+a:hover{
+  color: #000;
+  text-decoration : underline;
+}
+a:focus{
+  color: magenta;
+}
+a:active{
+  color: yellow;
+}
