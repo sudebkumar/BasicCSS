@@ -1,10 +1,16 @@
+#header{
+background-color: #5d8e50;
+background-image:url(/images/stories/pos_back.jpg);
+background-repeat: no-repeat;
+background-position: center right;
+}
 h1{
 color: red;
-background: yellow;
+background:gold;
 text-align: center;
 }
 p{
-    background-color: green;background-size: 20px;
+    background-color: blue;background-size: 20px;
+    font-style:italic;color: red;
     font-size:15px;
-    background-image:Sample Pictures/Chrysanthemum.jpg;
 }
