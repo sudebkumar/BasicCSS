@@ -8,6 +8,8 @@ h1{
 color: red;
 background:gold;
 text-align: center;
+border: 2px solid #f00;
+padding:5px;
 }
 p{
     background-color: blue;background-size: 20px;
