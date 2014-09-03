@@ -1,7 +1,7 @@
 #header{
 background-color: #5d8e50;
 background-image:url(/images/stories/pos_back.jpg);
-background-repeat: no-repeat;
+background-repeat: round;
 background-position: center right;
 }
 h1{
@@ -13,9 +13,10 @@ padding:5px;
 border-style: groove;
 }
 p{
-    background-color: blue;background-size: 20px;
-    font-style:italic;color: red;
-    font-size:15px;
+    background-color: blue;background-size: 30px;
+    font-style:italic;color:white;
+    font-size:25px;
+    position:initial;
 }
 
 a{
